@@ -1,42 +1,6 @@
 {
   "version": 1,
   "licenses": [
-    {
-      "user": "48999744278",
-      "machines": [
-        {
-          "ip": "192.168.3.10",
-          "days_left": 90
-        },
-        {
-          "ip": "192.168.3.133",
-          "days_left": -1
-        }
-      ]
-    },
-
-    {
-      "user": "cpf_ou_id_do_usuario_2",
-      "machines": [
-        {
-          "ip": "192.168.3.33",
-          "days_left": 30
-        }
-      ]
-    },
-
-    {
-      "user": "cpf_ou_id_do_usuario_3",
-      "machines": [
-        {
-          "ip": "192.168.3.133",
-          "days_left": -1
-        },
-        {
-          "ip": "192.168.3.10",
-          "days_left": 15
-        }
-      ]
-    }
+   
   ]
 }
