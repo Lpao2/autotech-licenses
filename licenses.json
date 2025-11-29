@@ -3,7 +3,7 @@
   "licenses": [
     {
       "phone": "install",
-      "ip": "127.0.0.1",
+      "ip": "192.168.3.10",
       "days_left": 5,
       "trial_used": true
     }
