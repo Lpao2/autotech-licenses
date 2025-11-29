@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [
+    {
+      "phone": "install",
+      "ip": "127.0.0.1",
+      "days_left": 5,
+      "trial_used": true
+    }
+  ]
 }
