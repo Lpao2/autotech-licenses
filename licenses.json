@@ -1,17 +1,4 @@
 {
   "version": 1,
-  "licenses": [
-    {
-      "phone": "install",
-      "ip": "192.168.3.10",
-      "days_left": 5,
-      "trial_used": true
-    },
-    {
-      "phone": "48999744278",
-      "ip": "192.168.3.10",
-      "days_left": 5,
-      "trial_used": true
-    }
-  ]
+  "licenses": []
 }
