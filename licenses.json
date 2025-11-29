@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [
+    {
+      "phone": "48999744278",
+      "ip": "192.168.3.10",
+      "expires_at": "2025-12-03",
+      "trial_used": true
+    }
+  ]
 }
