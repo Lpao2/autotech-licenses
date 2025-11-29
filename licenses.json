@@ -1,9 +1,4 @@
 {
   "version": 1,
-  "licenses": [
-    {
-      "user": "192.168.3.10",
-      "days_left": 5
-    }
-  ]
+  "licenses": []
 }
